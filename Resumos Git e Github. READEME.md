@@ -21,3 +21,7 @@ git init
 ## 🔍 Referências 
 
 - [Digital Innovation One](https://web.dio.me/).
+
+## 📝 Aulas Finalizadas 
+
+- [Digite aqui as aulas finalizadas.]
